@@ -1,4 +1,5 @@
 # ai-chat-room
+<img width="1284" alt="Screenshot 2023-05-07 at 22 11 59" src="https://user-images.githubusercontent.com/41677855/236740350-8d033cac-f1f9-4aca-99d0-06f649367810.png">
 
 ## local
 
